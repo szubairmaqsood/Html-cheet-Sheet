@@ -61,3 +61,30 @@ f12 for opeining developer tools.
     in <ul> and <ol> there is margin before and after
     and in padding to left for <ul> and <ol>
     in <ul> <ol> list style type dictates the symbol
+
+*tables
+    Major tags
+    thead, tbody , tr ,th ,td
+    it is used to show tabular data
+
+*Forms
+    Also a block level element
+    it is used to take data from users
+    to process it you need a programming language
+    action attribute controls the submitting of Form
+    post is used to describe method get will append data in url ,but post put in request body (usually used at login page)
+    label and input are inline tag 
+    div are block level element
+    To get data we can used input with type number,text,email,date,password
+    To pick from a list we can use radio ,select
+    To get larger text we can use textarea
+    placeHolder can used as hint for user
+    to submit a form you  need a type of submit
+    button can also be used
+
+*Images
+    img tag can be used to display images
+    src attribute can be used to access or specify images
+    alt is used if src can not be found
+    width and height are also important
+    it is inline element as well
