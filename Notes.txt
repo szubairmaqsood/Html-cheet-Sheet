@@ -1,24 +1,24 @@
-HTML 
-    hyper text markup language
-    Not a programming language
-    used to show contenet of webpage
-    it is start of every thing in web development
+*HTML 
+    hyper text markup language.
+    Not a programming language.
+    used to show contenet of webpage.
+    it is start of every thing in web development.
 
-Required
-    just a editor (visual studio code)
-    just a web browser (preferable chrome)
+*Required
+    just a editor (visual studio code).
+    just a web browser (preferable chrome).
 
-root file
-    need to be named as index.html (but you can change it)
+*root file
+    need to be named as index.html (but you can change it).
 
 
-Tages
-    html tags are building blogs of html they decide basic formatting of content
+*Tages
+    html tags are building blogs of html they decide basic formatting of content.
     <starttag></closingtag>
     <selfclosingtag/>
     e.g <h1></h1>   <p></p>  <br/>
 
-Basic structure
+*Basic structure
     <!DOCTYPE html>                 
     <html>
 
@@ -32,16 +32,19 @@ Basic structure
     </body>
     </html>
 
-First line is to tell that this page is of type html5
-head will contain things like link to css and java script, title  and  icon of page, and meta tags
-body will actually content you will see on web page
-title contain title of your webpage
+First line is to tell that this page is of type html5.
+head will contain things like link to css and java script, title  and  icon of page, and meta tags.
+body will actually content you will see on web page.
+title contain title of your webpage.
 comment <!--  -->
-ctrl+ u is used to see code of a webpage
-f12 for opeining developer tools
+ctrl+ u is used to see code of a webpage.
+f12 for opeining developer tools.
 
-Headings
-    There are 6 types of headings from h1 to h6
-    Heading is a block level element it means it always start on new line and take length of page
-    it has default margin at top and bottom
+*Headings
+    There are 6 types of headings from h1 to h6.
+    Heading is a block level element it means it always start on new line and take length of page.
+    it has default margin at top and bottom.
 
+*Paragraph
+    It is also a block level element start on new line and take up whole space .Means it takes whole width.
+    It also  has margin before and after
