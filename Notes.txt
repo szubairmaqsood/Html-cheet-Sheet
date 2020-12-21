@@ -39,3 +39,9 @@ title contain title of your webpage
 comment <!--  -->
 ctrl+ u is used to see code of a webpage
 f12 for opeining developer tools
+
+Headings
+    There are 6 types of headings from h1 to h6
+    Heading is a block level element it means it always start on new line and take length of page
+    it has default margin at top and bottom
+
