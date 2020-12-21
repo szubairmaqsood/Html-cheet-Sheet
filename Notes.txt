@@ -54,3 +54,10 @@ f12 for opeining developer tools.
     <strong> makes our text bold
     <em> make our text itelic or emphize
     <a> it connects to other webpages   (href is the attribute containing link) and (target about with value _blank will open link in another tag)
+
+*List
+    Two types order <ol> and Underordered <ul>
+    <ul> <ol > and <li> are block level elements
+    in <ul> and <ol> there is margin before and after
+    and in padding to left for <ul> and <ol>
+    in <ul> <ol> list style type dictates the symbol
