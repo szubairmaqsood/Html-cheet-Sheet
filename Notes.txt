@@ -48,3 +48,9 @@ f12 for opeining developer tools.
 *Paragraph
     It is also a block level element start on new line and take up whole space .Means it takes whole width.
     It also  has margin before and after
+
+*Inline elements
+    These elements take only space as required
+    <strong> makes our text bold
+    <em> make our text itelic or emphize
+    <a> it connects to other webpages   (href is the attribute containing link) and (target about with value _blank will open link in another tag)
