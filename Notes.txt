@@ -88,3 +88,12 @@ f12 for opeining developer tools.
     alt is used if src can not be found
     width and height are also important
     it is inline element as well
+
+*Abbr, blockquotes, cite
+
+*Sementic tags
+    <header>, <nav>, <section/>, <article>, <aside> , <footer /> <details>
+    describe meaning to both developer as well as broswer
+    header is usuallu used for branding
+    section major content
+    html enteties
