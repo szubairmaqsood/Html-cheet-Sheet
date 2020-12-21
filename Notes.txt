@@ -1,0 +1,41 @@
+HTML 
+    hyper text markup language
+    Not a programming language
+    used to show contenet of webpage
+    it is start of every thing in web development
+
+Required
+    just a editor (visual studio code)
+    just a web browser (preferable chrome)
+
+root file
+    need to be named as index.html (but you can change it)
+
+
+Tages
+    html tags are building blogs of html they decide basic formatting of content
+    <starttag></closingtag>
+    <selfclosingtag/>
+    e.g <h1></h1>   <p></p>  <br/>
+
+Basic structure
+    <!DOCTYPE html>                 
+    <html>
+
+    <head>
+        <title></title>
+
+    </head>
+
+    <body>
+
+    </body>
+    </html>
+
+First line is to tell that this page is of type html5
+head will contain things like link to css and java script, title  and  icon of page, and meta tags
+body will actually content you will see on web page
+title contain title of your webpage
+comment <!--  -->
+ctrl+ u is used to see code of a webpage
+f12 for opeining developer tools
